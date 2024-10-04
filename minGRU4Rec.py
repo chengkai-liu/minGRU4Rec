@@ -1,6 +1,6 @@
 import torch
 from torch import nn
-from minGRU_pytorch import minGRU
+from minGRU import minGRU
 from recbole.model.abstract_recommender import SequentialRecommender
 from recbole.model.loss import BPRLoss
 

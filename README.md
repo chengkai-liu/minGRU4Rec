@@ -6,10 +6,9 @@ Implementation of minGRU4Rec, an RNN-based sequential recommendation model that 
 
 ### Requirements
 
-```bash
-pip install minGRU-pytorch
-pip install RecBole
-```
+- PyTorch 1.12+
+- CUDA 11.6+
+- RecBole: `pip install recbole`
 
 ### Run
 
@@ -49,4 +48,4 @@ Please config the model, dataset, and hyperparameters in config.yaml before runn
 
 ## Acknowledgment
 
-This project references [minGRU-pytorch](https://github.com/lucidrains/minGRU-pytorch). Thanks for the commitment to open source.
+This project references [minGRU-pytorch](https://github.com/lucidrains/minGRU-pytorch) and [RecBole](https://github.com/RUCAIBox/RecBole). Thanks for their commitment to open source.
