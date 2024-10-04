@@ -4,7 +4,7 @@ Implementation of minGRU4Rec, an RNN-based sequential recommendation model that 
 
 ## Usage
 
-### Install
+### Requirements
 
 ```bash
 pip install minGRU-pytorch
