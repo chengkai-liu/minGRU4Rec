@@ -19,6 +19,7 @@ Please config the model, dataset, and hyperparameters in config.yaml before runn
 
 
 ## Citation
+
 ```bibtex
 @inproceedings{Feng2024WereRA,
     title   = {Were RNNs All We Needed?},
@@ -26,14 +27,18 @@ Please config the model, dataset, and hyperparameters in config.yaml before runn
     year    = {2024},
     url     = {https://api.semanticscholar.org/CorpusID:273025630}
 }
+```
 
+```bibtex
 @article{liu2024mamba4rec,
       title={Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models}, 
       author={Chengkai Liu and Jianghao Lin and Jianling Wang and Hanzhou Liu and James Caverlee},
       journal={arXiv preprint arXiv:2403.03900},
       year={2024}
 }
+```
 
+```bibtex
 @article{liu2024behavior,
   title={Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation},
   author={Liu, Chengkai and Lin, Jianghao and Liu, Hanzhou and Wang, Jianling and Caverlee, James},
