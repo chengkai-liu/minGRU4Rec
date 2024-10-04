@@ -1,6 +1,13 @@
 # minGRU4Rec
 
-Implementation of minGRU4Rec, an RNN-based sequential recommendation model that leverages [minGRU](https://arxiv.org/abs/2410.01201v1) as the core operator for user behavior modeling. minGRU4Rec demonstrates comparable performance to [Mamba4Rec](https://arxiv.org/abs/2403.03900).
+Implementation of minGRU4Rec, an efficient RNN-based sequential recommendation model that leverages [minGRU](https://arxiv.org/abs/2410.01201v1) as the core operator for user behavior modeling. minGRU4Rec demonstrates comparable performance to [Mamba4Rec](https://arxiv.org/abs/2403.03900).
+
+minGRU4Rec adheres to the three gold principles for sequential recommendation highlighted in [RecBLR](https://arxiv.org/abs/2406.12580), offering:
+
+- Strong recommendation performance
+- Parallelizable efficient training
+- Low-cost efficient inference
+
 
 ## Usage
 
