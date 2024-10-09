@@ -27,11 +27,11 @@ Please config the model, dataset, and hyperparameters in config.yaml before runn
 ## Citation
 
 ```bibtex
-@inproceedings{Feng2024WereRA,
-    title   = {Were RNNs All We Needed?},
-    author  = {Leo Feng and Frederick Tung and Mohamed Osama Ahmed and Yoshua Bengio and Hossein Hajimirsadegh},
-    year    = {2024},
-    url     = {https://api.semanticscholar.org/CorpusID:273025630}
+@article{feng2024were,
+  title={Were RNNs All We Needed?},
+  author={Feng, Leo and Tung, Frederick and Ahmed, Mohamed Osama and Bengio, Yoshua and Hajimirsadegh, Hossein},
+  journal={arXiv preprint arXiv:2410.01201},
+  year={2024}
 }
 ```
 
