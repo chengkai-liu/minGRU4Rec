@@ -45,10 +45,11 @@ Please config the model, dataset, and hyperparameters in config.yaml before runn
 ```
 
 ```bibtex
-@article{liu2024behavior,
+@inproceedings{liu2024behavior,
   title={Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation},
   author={Liu, Chengkai and Lin, Jianghao and Liu, Hanzhou and Wang, Jianling and Caverlee, James},
-  journal={arXiv preprint arXiv:2406.12580},
+  booktitle={Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+  pages={1430--1440},
   year={2024}
 }
 ```
